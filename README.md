@@ -13,7 +13,7 @@ I am Full Stack Developer, recently graduated from Dev Academy after an amazing 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMat&show_icons=true)
 
 
-### GIT STATUS
+### GIT STATS
 
 From May-July 2020 I have been pair and group coding daily. My commitS history stats might have a few gaps as my commits were made on my colleagues account.
 <!--
