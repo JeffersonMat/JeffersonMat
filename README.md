@@ -4,6 +4,14 @@
 
 ### Hi there, this is Jefferson Matamba👋
 
+I am Full Stack Developer, recently graduated from Dev Academy after an amazing journey. I love sotware development and its potential to make this world a better place to live in. 
+
+- ☀️ Top skills: Front End: Javascript. Frameworks: React, Handlebars. Styling: CSS, Framework:(Bootstrap, Material UI). 
+- ☀️ Always interested in improving my skills and also, I'm always open to new technologies. Next challenges: UX, UI, .net, Typescipt.
+- ☀️ I'm currently working alongside some colleagues on 'Pantree' a meal app planner.
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
+
 
 <!--
 **JeffersonMat/JeffersonMat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
