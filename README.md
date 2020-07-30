@@ -1,4 +1,7 @@
+<img src="https://github.com/JeffersonMat/JeffersonMat/readme/photo.jpg">
+
 ### Hi there, this is Jefferson Matamba👋
+
 
 <!--
 **JeffersonMat/JeffersonMat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
