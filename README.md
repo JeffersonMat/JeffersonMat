@@ -1,4 +1,4 @@
-<img src="https://github.com/JeffersonMat/JeffersonMat/photo.jpg">
+<img src="https://github.com/JeffersonMat/JeffersonMat/photo.jpeg">
 
 ### Hi there, this is Jefferson Matamba👋
 
