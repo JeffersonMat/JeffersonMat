@@ -10,7 +10,7 @@ I am Full Stack Developer, recently graduated from Dev Academy after an amazing 
 - ☀️ Always interested in improving my skills and also, I'm always open to new technologies. Next challenges: UX, UI, .net, Typescipt.
 - ☀️ I'm currently working alongside some colleagues on 'Pantree' a meal app planner.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMat&show_icons=true)
 
 
 <!--
