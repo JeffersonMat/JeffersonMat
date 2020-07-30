@@ -1,6 +1,3 @@
-<!-- <img src="https://github.com/JeffersonMat/JeffersonMat/blob/master/photo.jpeg">--!>
-
-
 
 ### Hi there, this is Jefferson Matamba👋
 
@@ -10,7 +7,7 @@ I am Full Stack Developer, recently graduated from Dev Academy after an amazing 
 - ☀️ Always interested in improving my skills and also, I'm always open to new technologies. Next challenges: UX, UI, .net, Typescipt.
 - ☀️ I'm currently working alongside some colleagues on 'Pantree' a meal app planner.
 
-<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMat&show_icons=true)--!>
+
 
 
 ### GIT STATS
@@ -29,4 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-![My github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMat&show_icons=true)
+-<img src="https://github.com/JeffersonMat/JeffersonMat/blob/master/photo.jpeg">
 -->
