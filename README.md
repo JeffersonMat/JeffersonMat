@@ -24,6 +24,21 @@ I am Full Stack Developer, recently graduated from Dev Academy after an amazing 
   
 </details>
 
+<details>
+  <summary>Projects I have worked on</summary>
+  <br>
+
+  - ⚡ https://github.com/kotare-2020/pong
+  - ⚡ Enjoy reading books about philosophy, physocology and history. 
+  
+  - ⚡ I love capturing people's expression trhough my .50mm lens. 
+  
+  - ⚡ Star Wars, Matrix and Fight Club... Something about them, can't really explain it.  
+  
+  - ⚡ Last but not least, I love music. I'm not sure if it is normal but, hey! I feel like I have a crush on Pink Floyd's music.
+  
+</details>
+
 
 
 ### GIT STATS
