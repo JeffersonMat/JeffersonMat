@@ -28,7 +28,7 @@ I am Full Stack Developer, recently graduated from Dev Academy after an amazing 
   <summary>Projects I have worked on</summary>
   <br>
 
-  - ⚡ https://github.com/kotare-2020/pong
+  - ⚡ <a href="https://github.com/kotare-2020/pong">Pong</a>
   - ⚡ Enjoy reading books about philosophy, physocology and history. 
   
   - ⚡ I love capturing people's expression trhough my .50mm lens. 
