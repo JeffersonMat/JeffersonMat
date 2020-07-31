@@ -9,19 +9,19 @@ I am Full Stack Developer, recently graduated from Dev Academy after an amazing 
 
 
 <details>
-  <summary>Some interesting facts about me!</summary>
+  <summary>What I am interested in!</summary>
   <br>
 
-  - In mean time, I create visual and artistic images using photoshop, you can check those are on **[My Instagram](https://www.instagram.com/imdhruv_28/)**.
+  - ✨ I'm always hungry for learning whether is a new tech, facts about astronomy or history.  
 
-  - While Coding, Listening Music and developing useful code. ⭐️
-
-  - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Romance, Sci-Fi, History books.
-
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job.
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=imdhruv99&show_icons=true)
-
+  - ✨ Enjoy reading books about philosophy, physocology and history. 
+  
+  - ✨ I love capturing people's expression trhough my .50mm lens. 
+  
+  - ✨ Star Wars, Matrix and Fight Club... Something about them, can't really explain it.  
+  
+  - ✨ Last but not least, I love music. I'm not sure if it is normal but, hey! I feel like I have a crush on Pink Floyd's music.
+  
 </details>
 
 
