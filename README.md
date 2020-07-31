@@ -12,7 +12,7 @@ I'm a web developer, recently graduated from Dev Academy after an amazing journe
   <summary>What I am interested in!</summary>
   <br>
 
-  - ✨ I'm always hungry for learning whether is a new tech, facts about astronomy or history.  
+  - ✨ I'm always hungry for learning whether it is a new tech, facts about astronomy or history.  
 
   - ✨ Enjoy reading books about philosophy, physocology and history. 
   
