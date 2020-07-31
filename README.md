@@ -1,7 +1,7 @@
 
 ### Hello, this is Jefferson Matamba👋
 
-I am Full Stack Developer, recently graduated from Dev Academy after an amazing journey. I love sotware development and its potential to make this world a better place to live in. 
+I'm a web developer, recently graduated from Dev Academy after an amazing journey. I love sotware development and its potential to make this world a better place to live in. 
 
 - ☀️ Top skills: Front End: Javascript. Frameworks: React, Handlebars. Styling: CSS, Framework:(Bootstrap, Materialize CSS). 
 - ☀️ Always interested in improving my skills and also, I'm always open to new technologies. Next challenges: UX, UI, .net, Typescipt.
