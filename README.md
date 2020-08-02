@@ -38,7 +38,7 @@ I'm a web developer, recently graduated from Dev Academy after an amazing journe
  
   - ⚡ <a href="https://github.com/kotare-2020/mind-eater">Mind Eater</a> 
  
-  - ⚡ <a href="https://pantree-app.herokuapp.com>Pantree</a>
+  - ⚡ <a href="https://pantree-app.herokuapp.com">Pantree</a>
   
 </details>
 
