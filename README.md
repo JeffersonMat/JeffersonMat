@@ -35,8 +35,10 @@ I'm a web developer, recently graduated from Dev Academy after an amazing journe
   - ⚡<a href="https://github.com/kotare-2020/lost-and-found">Lost and Found</a>
   
   - ⚡<a href="https://github.com/kotare-2020/todo-full-stack/tree/Jefferson">To-Do APP</a>
-  
-  - ⚡<a href="https://github.com/kotare-2020/mind-eater">Mind Eater</a> 
+ 
+  - ⚡ <a href="https://github.com/kotare-2020/mind-eater">Mind Eater</a> 
+ 
+  - ⚡ <a href="https://pantree-app.herokuapp.com/>Pantree</a>
   
 </details>
 
