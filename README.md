@@ -1,10 +1,10 @@
 
 ### Hello, this is Jefferson Matamba👋
 
-I'm a web developer, recently graduated from Dev Academy after an amazing journey. I love sotware development and its potential to make this world a better place to live in. 
+I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an amazing journey. I love sotware development and its potential to make this world a better place to live in. 
 
-- ☀️ Top skills: Front End: Javascript. Frameworks: React, Handlebars. Styling: CSS, Framework:(Bootstrap, Materialize CSS). 
-- ☀️ Always interested in improving my skills and also, I'm always open to new technologies. Next challenges: UX, UI, .net, Typescipt, Ruby on Rails.
+- ☀️ Top skills: Front End: Javascript. Frameworks: React, Handlebars. Styling: CSS, Framework:(Bootstrap, Materialize CSS). Back End: Node.js Express, Sqlite -Knex. 
+- ☀️ Always interested in improving my skills and also, I'm always open to new technologies. Next challenges: UX, UI,.Net, Typescipt, Ruby on Rails.
 - ☀️ I'm currently working alongside some colleagues on 'Pantree' a meal app planner.
 
 
