@@ -42,19 +42,20 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
   
 </details>
 
-<hr>
-<p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
-    <a href="www.linkedin.com/in/jeffersonm-189212179" alt="Linkedin"><img src=""/></a>
- 
-    
-
-</p>
 
 ### GIT STATS
 
 From May-July 2020 I have been pair and group coding daily. My commitS history stats might have a few gaps as my commits were made on my colleagues account.
+
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+
+ <a href="www.linkedin.com/in/jeffersonm-189212179" alt="Linkedin"><img src=""/></a>   
+
+</p>
 <!--
 **JeffersonMat/JeffersonMat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
