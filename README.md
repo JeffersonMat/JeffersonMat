@@ -42,6 +42,15 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
   
 </details>
 
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+
+    <a href="www.linkedin.com/in/jeffersonm-189212179" alt="Linkedin"><img src=""/></a>
+ 
+    
+
+</p>
 
 ### GIT STATS
 
