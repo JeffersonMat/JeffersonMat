@@ -52,8 +52,9 @@ From May-July 2020 I have been pair and group coding daily. My commitS history s
 <hr>
  <p align="center">
    <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
-  
- <a  align="center" href="www.linkedin.com/in/jeffersonm-189212179" alt="Linkedin"><img    src="https://github.com/JeffersonMat/JeffersonMat/blob/master/linkedin.png"/></a>                  
+  <p align="center">
+ <a  align="center" href="www.linkedin.com/in/jeffersonm-189212179" alt="Linkedin"><img    src="https://github.com/JeffersonMat/JeffersonMat/blob/master/linkedin.png"/></a> 
+  </p>  
 </p>
 
 
