@@ -4,7 +4,7 @@
 I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an amazing journey. I love sotware development and its potential to make this world a better place to live in. 
 
 - ☀️ Top skills: Front End: Javascript. Frameworks: React, Handlebars. Styling: CSS, Framework:(Bootstrap, Materialize CSS). Back End: Node.js Express, Sqlite -Knex. 
-- ☀️ Always interested in improving my skills and also, I'm always open to new technologies. Next challenges: UX, UI,Typescipt, Ruby on Rails, .Net
+- ☀️ Always interested in improving my skills and also, I'm always open to new technologies. Next challenges:Typescipt,Vue.js, .Net
 - ☀️ I'm currently working alongside some colleagues on 'Pantree' a meal app planner.
 
 
