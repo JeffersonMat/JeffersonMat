@@ -26,19 +26,21 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
 
 <details>
   
-  <summary>Projects I have worked on</summary>
+  <summary>Check out my website</summary>
   
   <br>
   
-  - ⚡<a href="https://github.com/kotare-2020/pong">Pong</a>
+  - ⚡<a href="https://jefferson-m.herokuapp.com/#/">Website</a>
   
-  - ⚡<a href="https://github.com/kotare-2020/lost-and-found">Lost and Found</a>
+ 
+ <!---- ⚡<a href="https://github.com/kotare-2020/lost-and-found">Lost and Found</a>
   
   - ⚡<a href="https://taskss-manager.herokuapp.com/">Task Manager</a>
  
   - ⚡ <a href="https://github.com/kotare-2020/mind-eater">Mind Eater</a> 
  
   - ⚡ <a href="https://pantree-app.herokuapp.com">Pantree</a>
+  --->
   
 </details>
 
