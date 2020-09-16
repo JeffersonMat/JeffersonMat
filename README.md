@@ -30,7 +30,7 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
   
   <br>
   
-  - ⚡<a href="https://jefferson-m.herokuapp.com/#/" target="_blank">Website</a>
+  - ⚡<a href="https://jefferson-m.herokuapp.com/#/">Website</a>
   
  
  <!---- ⚡<a href="https://github.com/kotare-2020/lost-and-found">Lost and Found</a>
