@@ -12,7 +12,7 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
   <summary>What I am interested in!</summary>
   <br>
 
-  - ✨ I'm always hungry for learning whether it is a new tech, facts about astronomy or history.  
+  - ✨ I'm always hungry for learning whether it is a new tech, history.  
 
   - ✨ Enjoy reading books about philosophy, physocology and history. 
   
@@ -26,11 +26,11 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
 
 <details>
   
-  <summary>Check out my website</summary>
+  <summary>Visit Mote</summary>
   
   <br>
   
-  - ⚡<a href="http://www.jeffersonmatamba.com/#/">Website</a>
+  - ⚡<a href="http://www.mote.nz">Mote</a>
   
  
  <!---- ⚡<a href="https://github.com/kotare-2020/lost-and-found">Lost and Found</a>
