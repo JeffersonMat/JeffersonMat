@@ -7,17 +7,17 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
 - <details>
   <summary>Technologies/Skills</summary>
   <br>
-  - ✨ Javascript, React, Node.js (incl. Express)
-
-  - ✨ RESTful API's
+  - ✨  Javascript, React, Node.js (incl. Express)
   
-  - ✨ SQlite, Dynamo DB
+  - ✨  RESTful API's
+ 
+  - ✨  SQlite, Dynamo DB
   
-  - ✨ Heroku, AWS
+  - ✨  Heroku, AWS
   
-  - ✨ CSS (Incl. Sass)
+  - ✨  CSS (Incl. Sass)
   
-  - ✨ Responsive design —Figma
+  - ✨  Responsive design —Figma
     
 </details>
 
