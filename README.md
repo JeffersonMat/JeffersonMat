@@ -3,9 +3,25 @@
 
 I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an amazing journey. I love sotware development and its potential to make this world a better place to live in. 
 
-- ☀️ Top skills: Front End: Javascript. Frameworks: React, Handlebars. Styling: CSS, Framework:(Bootstrap, Materialize CSS). Back End: Node.js Express, Sqlite -Knex. 
-- ☀️ Always interested in improving my skills and also, I'm always open to new technologies. Next challenges:Typescipt,Vue.js, .Net
-- ☀️ I'm currently working alongside some colleagues on 'Pantree' a meal app planner.
+
+- <details>
+  <summary>Technologies/Skills</summary>
+  <br>
+  - ✨ Javascript, React, Node.js (incl. Express)
+
+  - ✨ RESTful API's
+  
+  - ✨ SQlite, Dynamo DB
+  
+  - ✨ Heroku, AWS
+  
+  - ✨ CSS (Incl. Sass)
+  
+  - ✨ Responsive design —Figma
+    
+</details>
+
+- ☀️ I'm currently launching a start-up called <a href="https://www.mote.nz/#/">Mote</a> —A web app that enables remote workers to find their perfect spot to get some work done.
 
 
 <details>
@@ -24,25 +40,24 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
   
 </details>
 
-<details>
-  
-  <summary>Visit Mote</summary>
-  
+ <!-- 
+<details>  
   <br>
   
   - ⚡<a href="http://www.mote.nz">Mote</a>
   
  
- <!---- ⚡<a href="https://github.com/kotare-2020/lost-and-found">Lost and Found</a>
+ ⚡<a href="https://github.com/kotare-2020/lost-and-found">Lost and Found</a>
   
   - ⚡<a href="https://taskss-manager.herokuapp.com/">Task Manager</a>
  
   - ⚡ <a href="https://github.com/kotare-2020/mind-eater">Mind Eater</a> 
  
   - ⚡ <a href="https://pantree-app.herokuapp.com">Pantree</a>
-  --->
+
   
-</details>
+</details> 
+-->
 
 
 
