@@ -11,13 +11,15 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
   
   - ✨  RESTful API's
  
-  - ✨  SQlite, Dynamo DB
+  - ✨  SQlite, Dynamo DB, Mongo DB
   
   - ✨  Heroku, AWS
   
   - ✨  CSS (Incl. Sass)
   
   - ✨  Responsive design —Figma
+  
+  - ✨  Unit Testing
     
 </details>
 
