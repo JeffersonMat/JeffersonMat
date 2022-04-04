@@ -1,7 +1,7 @@
 
-### Hello, this is Jefferson Matamba👋
+<!-- ### Hello, this is Jefferson Matamba👋 -->
 
- Full Stack Web Developer. 
+ Full Stack Software Developer. 
 
 
 <!-- - <details>
@@ -26,7 +26,7 @@
 - ☀️ I'm currently launching a start-up called <a href="https://www.mote.nz/#/">Mote</a> —A web app that enables remote workers to find their perfect spot to get some work done. -->
 
 
-<details>
+<!-- <details>
   <summary>What I am interested in!</summary>
   <br>
 
@@ -41,7 +41,7 @@
   - ✨ Last but not least, I love music. I'm not sure if it is normal but, hey! I feel like I have a crush on Pink Floyd's music.
   
 </details>
-
+ -->
  <!-- 
 <details>  
   <br>
@@ -59,7 +59,7 @@
 
   
 </details> 
--->
+
 
 
 
@@ -93,4 +93,4 @@ Here are some ideas to get you started:
 -![My github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMat&show_icons=true)
 -<img src="https://github.com/JeffersonMat/JeffersonMat/blob/master/photo.jpeg">
 -->
- -->
+
