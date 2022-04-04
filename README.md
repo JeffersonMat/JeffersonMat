@@ -1,10 +1,10 @@
 
 ### Hello, this is Jefferson Matamba👋
 
-I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an amazing journey. I love sotware development and its potential to make this world a better place to live in. 
+ Full Stack Web Developer. 
 
 
-- <details>
+<!-- - <details>
   <summary>Technologies/Skills</summary>
   <br>
   - ✨  Javascript, React, Node.js (incl. Express)
@@ -22,8 +22,8 @@ I'm a Full Stack Web Developer. I recently graduated from Dev Academy after an a
   - ✨  Unit Testing
     
 </details>
-
-- ☀️ I'm currently launching a start-up called <a href="https://www.mote.nz/#/">Mote</a> —A web app that enables remote workers to find their perfect spot to get some work done.
+<!-- 
+- ☀️ I'm currently launching a start-up called <a href="https://www.mote.nz/#/">Mote</a> —A web app that enables remote workers to find their perfect spot to get some work done. -->
 
 
 <details>
@@ -93,3 +93,4 @@ Here are some ideas to get you started:
 -![My github stats](https://github-readme-stats.vercel.app/api?username=JeffersonMat&show_icons=true)
 -<img src="https://github.com/JeffersonMat/JeffersonMat/blob/master/photo.jpeg">
 -->
+ -->
